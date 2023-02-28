@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 1.Git init->make new repository-> git remote add origin https://github.com/AKV85/workTogetherTest.git->
 create new file->git add {file.name} or .(take all)->
 git commit -m "Comment commit"->git push -u origin main
 2.Git clone https://github.com/AKV85/workTogetherTest.git cloneWorkTogether->
+git checkout -b forWork-> some changes->git add. ->git commit -m "Make some changes"
+->git merge forWork
