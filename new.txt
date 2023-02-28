@@ -1,0 +1,3 @@
+2.Git clone https://github.com/AKV85/workTogetherTest.git cloneWorkTogether->
+git checkout -b forWork-> some changes->git add. ->git commit -m "Make some changes"
+->git push
